@@ -1,0 +1,4 @@
+Better code
+faster(time)
+less memory(space)
+more readable
